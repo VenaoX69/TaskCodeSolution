@@ -135,3 +135,4 @@ C:\WorkSpaces\Net8\PrimerSprint\TaskCodeSolution\taskcode\bin\Debug\net8.0\runti
 C:\WorkSpaces\Net8\PrimerSprint\TaskCodeSolution\taskcode\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\WorkSpaces\Net8\PrimerSprint\TaskCodeSolution\taskcode\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\WorkSpaces\Net8\PrimerSprint\TaskCodeSolution\taskcode\obj\Debug\net8.0\TaskCode.csproj.AssemblyReference.cache
+C:\WorkSpaces\Net8\PrimerSprint\TaskCodeSolution\taskcode\obj\Debug\net8.0\TaskCode.sourcelink.json

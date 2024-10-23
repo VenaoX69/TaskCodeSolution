@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
+using TaskCode.Commands;
 using TaskCode.Data;
-using TaskCode.Services;
+using TaskCode.Queries;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +11,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<CarteraDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddScoped<CreditoService>();
+builder.Services.AddScoped<CreateCategoriaCreditoCommandHandler>();
+builder.Services.AddScoped<GetCategoriaCreditoQueryHandler>();
 
 var app = builder.Build();
 

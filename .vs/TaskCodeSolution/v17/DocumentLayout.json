@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\services\\creditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\services\\creditoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\controllers\\creditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\models\\categoriacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\models\\categoriacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\data\\carteradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\data\\carteradbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\controllers\\categoriacreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\controllers\\categoriacreditocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\commands\\createcategoriacreditocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\commands\\createcategoriacreditocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\commands\\createcategoriacreditocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\commands\\createcategoriacreditocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\taskcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\taskcode.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\queries\\getcategoriacreditoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\queries\\getcategoriacreditoqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|c:\\workspaces\\net8\\primersprint\\taskcodesolution\\taskcode\\queries\\getcategoriacreditoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4962891-CE1C-43A8-8BD9-41EE2D9AA08E}|TaskCode\\TaskCode.csproj|solutionrelative:taskcode\\queries\\getcategoriacreditoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,109 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Program.cs",
-              "RelativeDocumentMoniker": "TaskCode\\Program.cs",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Program.cs",
-              "RelativeToolTip": "TaskCode\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateCategoriaCreditoCommandHandler.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Commands\\CreateCategoriaCreditoCommandHandler.cs",
+              "RelativeDocumentMoniker": "TaskCode\\Commands\\CreateCategoriaCreditoCommandHandler.cs",
+              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Commands\\CreateCategoriaCreditoCommandHandler.cs",
+              "RelativeToolTip": "TaskCode\\Commands\\CreateCategoriaCreditoCommandHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T21:15:44.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreditoService.cs",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Services\\CreditoService.cs",
-              "RelativeDocumentMoniker": "TaskCode\\Services\\CreditoService.cs",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Services\\CreditoService.cs",
-              "RelativeToolTip": "TaskCode\\Services\\CreditoService.cs",
-              "ViewState": "AgIAAAsAAAAAzMzMzMwYwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:23:37.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TaskCode\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TaskCode\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T21:05:25.154Z",
+              "WhenOpened": "2024-10-23T20:59:26.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreditoController.cs",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Controllers\\CreditoController.cs",
-              "RelativeDocumentMoniker": "TaskCode\\Controllers\\CreditoController.cs",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Controllers\\CreditoController.cs",
-              "RelativeToolTip": "TaskCode\\Controllers\\CreditoController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Program.cs",
+              "RelativeDocumentMoniker": "TaskCode\\Program.cs",
+              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Program.cs",
+              "RelativeToolTip": "TaskCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:48:12.54Z",
+              "WhenOpened": "2024-10-23T20:57:13.94Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskCode.csproj",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\TaskCode.csproj",
-              "RelativeDocumentMoniker": "TaskCode\\TaskCode.csproj",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\TaskCode.csproj",
-              "RelativeToolTip": "TaskCode\\TaskCode.csproj",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T19:19:00.63Z"
+              "DocumentIndex": 0,
+              "Title": "CategoriaCreditoController.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Controllers\\CategoriaCreditoController.cs",
+              "RelativeDocumentMoniker": "TaskCode\\Controllers\\CategoriaCreditoController.cs",
+              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Controllers\\CategoriaCreditoController.cs",
+              "RelativeToolTip": "TaskCode\\Controllers\\CategoriaCreditoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:41:21.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriaCredito.cs",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Models\\CategoriaCredito.cs",
-              "RelativeDocumentMoniker": "TaskCode\\Models\\CategoriaCredito.cs",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Models\\CategoriaCredito.cs",
-              "RelativeToolTip": "TaskCode\\Models\\CategoriaCredito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GetCategoriaCreditoQueryHandler.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Queries\\GetCategoriaCreditoQueryHandler.cs",
+              "RelativeDocumentMoniker": "TaskCode\\Queries\\GetCategoriaCreditoQueryHandler.cs",
+              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Queries\\GetCategoriaCreditoQueryHandler.cs",
+              "RelativeToolTip": "TaskCode\\Queries\\GetCategoriaCreditoQueryHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:16:10.007Z",
+              "WhenOpened": "2024-10-23T20:30:36.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCategoriaCreditoQuery.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Queries\\GetCategoriaCreditoQuery.cs",
+              "RelativeDocumentMoniker": "TaskCode\\Queries\\GetCategoriaCreditoQuery.cs",
+              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Queries\\GetCategoriaCreditoQuery.cs",
+              "RelativeToolTip": "TaskCode\\Queries\\GetCategoriaCreditoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:30:19.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarteraDbContext.cs",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Data\\CarteraDbContext.cs",
-              "RelativeDocumentMoniker": "TaskCode\\Data\\CarteraDbContext.cs",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Data\\CarteraDbContext.cs",
-              "RelativeToolTip": "TaskCode\\Data\\CarteraDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Title": "CreateCategoriaCreditoCommand.cs",
+              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Commands\\CreateCategoriaCreditoCommand.cs",
+              "RelativeDocumentMoniker": "TaskCode\\Commands\\CreateCategoriaCreditoCommand.cs",
+              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\Commands\\CreateCategoriaCreditoCommand.cs",
+              "RelativeToolTip": "TaskCode\\Commands\\CreateCategoriaCreditoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:11:20.229Z",
+              "WhenOpened": "2024-10-23T20:09:03.787Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskCode\\appsettings.json",
-              "ToolTip": "C:\\WorkSpaces\\Net8\\PrimerSprint\\TaskCodeSolution\\TaskCode\\appsettings.json",
-              "RelativeToolTip": "TaskCode\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T18:57:42.57Z"
             }
           ]
         }
